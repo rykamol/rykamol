@@ -18,8 +18,8 @@ I'm **Kamol**, a passionate **.NET Developer** who loves building scalable and e
 
 
 ### 💡 Let's Connect!  
-📫 Reach me at: kamolroy.din@gmail.com
-🔗 LinkedIn: https://bd.linkedin.com/in/rykamol
+📫 **Email:** kamolroy.din@gmail.com &nbsp; | &nbsp; 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rykamol/)
+
 
 ### 🚀 Skills  
 ```csharp
