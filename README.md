@@ -17,9 +17,10 @@ I'm **Kamol**, a passionate **.NET Developer** who loves building scalable and e
 🅰️ Angular | ⚛ React | ⚡ JavaScript | 🎨 CSS | 🌎 HTML | ⌨ TypeScript  
 
 
-
 ### 💡 Let's Connect!  
-**Email:** kamolroy.din@gmail.com <br> 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rykamol/)
+### 💡 Let's Connect!  
+📫 **Email:** kamolroy.din@gmail.com &nbsp; | &nbsp; 🔗 **LinkedIn:** https://www.linkedin.com/in/rykamol/
+
 
 
 
