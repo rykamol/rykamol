@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my GitHub Profile  
 
-<!--
-**rykamol/rykamol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kamol**, a passionate **.NET Developer** who loves building scalable and efficient applications.  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+🔹 **Tech Stack:** .NET | C# | ASP.NET Core | Entity Framework | SQL Server  
+🔹 **Interests:** Backend Development | Cloud Computing | API Design  
+🔹 **Currently Learning:** Microservices Architecture, Docker, and Kubernetes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Let's Connect!  
+📫 Reach me at: kamolroy.din@gmail.com
+🔗 LinkedIn: https://bd.linkedin.com/in/rykamol
+
+### ⚡ Fun Fact  
+💻 I write code that sometimes works on the first try! 😄  
