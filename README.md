@@ -2,10 +2,20 @@
 
 I'm **Kamol**, a passionate **.NET Developer** who loves building scalable and efficient applications.  
 
-### 🚀 About Me  
-🔹 **Tech Stack:** .NET | C# | ASP.NET Core | Entity Framework | SQL Server  
-🔹 **Interests:** Backend Development | Cloud Computing | API Design  
-🔹 **Currently Learning:** Microservices Architecture, Docker, and Kubernetes  
+ ### 🚀 Tech & Skills  
+
+🔹 **Tech Stack:**  
+💻 .NET | 🔷 C# | 🚀 ASP.NET Core | 📊 SQL Server  
+
+🔹 **Interests:**  
+⚡ Backend Development | ☁ Cloud Computing | 🔗 API Design  
+
+🔹 **Currently Learning:**  
+🌐 Microservices Architecture | 🐳 Docker | ☁ Kubernetes | ⚡ JavaScript  
+
+🔹 **Familiar With:**  
+🅰️ Angular | ⚛ React | ⚡ JavaScript | 🎨 CSS | 🌎 HTML | ⌨ TypeScript  
+
 
 ### 💡 Let's Connect!  
 📫 Reach me at: kamolroy.din@gmail.com
